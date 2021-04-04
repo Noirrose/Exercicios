@@ -5,7 +5,7 @@ programa
 	funcao inicio()
 	{
 		cont = 101
-		escreva("Irei contar do 1 ao 10.\n")
+		escreva("Irei lhe contar os 10 numeros inteiros maiores que 100!\n")
 		enquanto(cont <= 110){			
 			escreva(cont, "\n")
 			cont++
